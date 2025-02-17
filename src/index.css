@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #00ff9d;
+  --secondary-color: #ff00e5;
+  --background-dark: #0a0a0a;
+  --text-light: #ffffff;
+
+  /* Rainbow Button Colors - Updated to match theme */
+  --color-1: 153 100% 50%;  /* #00ff9d - Primary */
+  --color-2: 315 100% 50%;  /* #ff00e5 - Secondary */
+  --color-3: 191 100% 50%;  /* #00f0ff - Tertiary */
+  --color-4: 153 100% 50%;  /* #00ff9d - Primary again */
+  --color-5: 315 100% 50%;  /* #ff00e5 - Secondary again */
+}
+
+/* Rest of your existing CSS */
